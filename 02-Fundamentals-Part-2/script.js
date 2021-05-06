@@ -21,5 +21,7 @@ if(population > populationFinland){
   return 'My country has more people than Finland.';
 }
 
+let description = 'Portugal is in Europe and its 11 million people speak portuguese.'
 
-//  
+
+// LECTURE: Strings and Template Literals
